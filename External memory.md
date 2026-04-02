@@ -28,7 +28,7 @@ when doing similar things. Store in agents.md`
 
 And always remeber to store the things in the *agent.md* to make the agent more better pereformance, Less errors|mistakes
 
-**And you might say *But this will cost more tokens more because the agent should go to the file and then get the informations and all of that things*
+**And you might say *But this will cost more tokens more because the agent should go to the file and then get the informations and all of that things***
 
 `But this is really not true but it's quit the oppsite, Because This will make less effort for the agent why do the agent should think, gather some informations from around, if we in the first place gived him the informations`
 
