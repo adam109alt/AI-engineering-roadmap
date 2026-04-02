@@ -39,7 +39,7 @@ And always remeber to store the things in the *agent.md* to make the agent more 
 ```
 from google import genai
 
-client = genai.Client(api_key='AIzaSyBZqR7yXMYm9g1RVzVIQgK3IFepTHrhdPU')
+client = genai.Client(api_key='MY_API_KEY')
 
 my_external_docs = [
     '''Iam a AI engineer student and iam 14 years old'''
