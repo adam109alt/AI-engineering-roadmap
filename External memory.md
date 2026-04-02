@@ -33,3 +33,22 @@ And always remeber to store the things in the *agent.md* to make the agent more 
 `But this is really not true but it's quit the oppsite, Because This will make less effort for the agent why do the agent should think, gather some informations from around, if we in the first place gived him the informations`
 
 ### And a very imporant thing that we don't just use agent.md, no we can use any another external library, witch is RAG, and also some tools like google, etc
+
+### Simple code:
+
+`from google import genai
+
+client = genai.Client(api_key='MY_API_KEY')
+
+my_external_docs = [
+    '''Iam a AI engineer student and iam 14 years old'''
+]
+
+user_question = ['who is me? ']
+
+response = client.models.generate_content(
+    model = 'gemini-3-flash-preview',
+    contents = f'Context: {my_external_docs}, My question: {user_question}'
+)
+
+print(response.text)`
