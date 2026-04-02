@@ -36,9 +36,10 @@ And always remeber to store the things in the *agent.md* to make the agent more 
 
 ### Simple code:
 
-`from google import genai
+```
+from google import genai
 
-client = genai.Client(api_key='MY_API_KEY')
+client = genai.Client(api_key='AIzaSyBZqR7yXMYm9g1RVzVIQgK3IFepTHrhdPU')
 
 my_external_docs = [
     '''Iam a AI engineer student and iam 14 years old'''
@@ -51,4 +52,4 @@ response = client.models.generate_content(
     contents = f'Context: {my_external_docs}, My question: {user_question}'
 )
 
-print(response.text)`
+print(response.text)```
