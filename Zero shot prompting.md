@@ -32,4 +32,4 @@
 
 ### Dose it always success?
 
-**No not always because it's depend very much on the model training and also the prompt you have entered for the LLM (like :contentReference[oaicite:0]{index=0})**
+**No not always because it's depend very much on the model training and also the prompt you have entered for the LLM**
