@@ -10,7 +10,7 @@ When you send to the AI a *big document, book, very large data, etc* this will t
 
 ### Wait Wait Wait...
 
-**We have something called *memory*, Then why do we need `prompt cashing`?, Because memory is just about all you conversations with the AI saved and then just recall it all every request, This is will use a very big amount of tokens and latency time**
+**We have something called *memory*, Then why do we need `prompt cashing`?, Because memory is just about all your conversations with the AI saved and then just recall it all every request, This is will use a very big amount of tokens and latency time**
 
 ### Ok how prompt cahing work?
 
