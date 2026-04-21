@@ -21,8 +21,10 @@ It's a prompt for one specific thing or task
 ### The diffrence:
 
 System prompt = *Not changeable it's the background for the AI of how to talk, who are you, how should you response* Example: **You are an AI that build very good websites use all the codes in one HTML file, and use simple english while explaining the code**
+
 Role = *Not changeable it's the thing that the AI will build on it his task, give the AI an identity* Example: **You are a philosopher, You are an actor, etc**
-Contextual prompting = *Changeable, A background for one specific task* Example: *The user is typing na python program for 4 hours he is stuck and he dose not what to do in this error:...*
+
+Contextual prompting = *Changeable, A background for one specific task* Example: *The user is typing python code for 4 hours he is stuck and he dose not know what to do in this error:...*
 
 ## Code 
 
