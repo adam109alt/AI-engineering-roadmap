@@ -4,6 +4,12 @@
 
 Claude is an LLM that have been made by company called **Anthropic**
 
+And **Claude** have a lot of *models*
+
+Claude hikaru ~ Good for simple task, fast, cheap
+Claude sonnet ~ The sweet spot - smart, fast, afford able
+Claude Opus ~ For complex tasks, expensive
+
 ## What is the things that claude is better than the other LLM's in
 
 Claude beat another LLMs with:
